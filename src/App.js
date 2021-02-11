@@ -16,9 +16,9 @@ const App =() => {
    }  
 
   return (
-    <div className="app d-inline-block" >
+    <div className="app" >
 
-    <h1 className="m-2 text-center">Weather Forecast</h1>
+    <h1 className="p-3 text-center">Weather Forecast</h1>
     <hr></hr>
         
     <InputLabel className="InputLabel d-inline-block" ><strong>City Name : </strong></InputLabel>
